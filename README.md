@@ -108,10 +108,10 @@ As `n` increases, the count’s leading digits converge to π.
 
 ## How to Run
 
-1. Save the simulation code as `pi_collision.py`.
+1. Save the simulation code as `main.py`.
 2. Run:
    ```bash
-   python pi_collision.py
+   python main.py
    ```
 3. Change `m2` to `100 ** (n - 1)` for `n` digits of π.
 
@@ -124,5 +124,3 @@ As `n` increases, the count’s leading digits converge to π.
 - Conservation of momentum + relative velocity derivation
 
 ---
-
-Enjoy watching π emerge from pure Newtonian mechanics!
