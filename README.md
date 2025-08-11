@@ -1,6 +1,6 @@
-# π from Colliding Blocks
+# Pi from Colliding Blocks
 
-This program simulates a fascinating physics problem where the number of perfectly elastic collisions between two blocks and a wall encodes the digits of π.  
+This program simulates a really cool physics problem where the number of perfectly elastic collisions between two blocks and a wall approaches the digits of pi.  
 
 When the heavy block's mass is **100^(n−1)** times the small block’s mass, the **total number of collisions** (block-block + block-wall) equals the first **n** digits of π.
 
